@@ -67,6 +67,14 @@ npm install lucide-react
 
 ### 3. Tailwind CSS Configuration
 
+  # 1. Install Tailwind and its peer dependencies
+  ```bash
+  npm install -D tailwindcss postcss autoprefixer
+  ```
+  # 2. Generate the tailwind configuration files
+  ```bash
+  npx tailwindcss init -p
+  ```
 Ensure Tailwind CSS is properly initialized in your project. Add the following line to your `tailwind.config.js` if it isn't already set up:
 
 ```javascript
