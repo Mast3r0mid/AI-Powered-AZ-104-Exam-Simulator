@@ -1,8 +1,12 @@
 # ☁️ AZ-104 Microsoft Azure Administrator Exam Simulator
 
+
+
 A modern, interactive, and AI-powered **AZ-104 Exam Simulator** built using React, TypeScript, Tailwind CSS, and Lucide Icons. 
 
 This application offers real-time exam simulations with built-in scenario questions covering all five official Microsoft AZ-104 domains, as well as dynamic query integration powered by Google's **Gemini AI** for custom question generation and interactive tutoring.
+
+![AZ-104 Exam Simulator Screenshot](AI%20AZ-104.png)
 
 ---
 
