@@ -1,0 +1,9 @@
+/*
+All component styling for the AZ-104 Exam Simulator is handled via Tailwind CSS utility classes.
+This file is kept minimal to prevent overriding utility classes.
+*/
+#root {
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+}
