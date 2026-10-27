@@ -67,11 +67,11 @@ npm install lucide-react
 
 ### 3. Tailwind CSS Configuration
 
-  # 1. Install Tailwind and its peer dependencies
+   1. Install Tailwind and its peer dependencies
   ```bash
   npm install -D tailwindcss postcss autoprefixer
   ```
-  # 2. Generate the tailwind configuration files
+   2. Generate the tailwind configuration files
   ```bash
   npx tailwindcss init -p
   ```
@@ -112,6 +112,13 @@ npm run dev
 2. In the **Setup View**, you will see an optional **Gemini API Key** field.
 3. **With API Key:** Enter your Gemini API key to enable AI-powered custom question generation and the live **Ask AI Azure Tutor** chat inside questions.
 4. **Without API Key:** Leave the input blank. The simulator will default to the built-in AZ-104 question engine and fallback guidance.
+
+## 🔑 How to Get a Free Gemini API Key
+
+1. Go to [Google AI Studio](https://aistudio.google.com/).
+2. Sign in with your Google account.
+3. Click **Get API Key** in the menu, then click **Create API key**.
+4. Copy your key and paste it into the **Gemini API Key** field on the app's setup screen.
 
 ---
 
