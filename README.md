@@ -37,6 +37,28 @@ This application offers real-time exam simulations with built-in scenario questi
 - **🎨 Dark Futuristic UI:** Built with Tailwind CSS, Lucide icons, and modern blur/glow effects.
 
 ---
+## 🔒 Security & Privacy First
+
+> **Your API Key is Completely Private:** This application runs 100% on the client side in your browser. Your API key is stored only in your local browser storage (`localStorage`) and is never sent to any external server or repository. All requests are sent directly from your browser to Google's official Gemini API servers.
+
+---
+
+## 🤖 AI Features & API Key Setup
+
+1. **Launch the simulator** in your browser.
+2. In the **Setup View**, you will see an optional **Gemini API Key** field.
+3. **With API Key:** Enter your Gemini key to enable AI-powered custom question generation and the live *Ask AI Azure Tutor* chat inside questions.
+4. **Without API Key:** Leave the input blank to use the robust built-in AZ-104 offline question bank.
+
+### How to Get a Free Gemini API Key
+
+1. Go to [Google AI Studio](https://aistudio.google.com/).
+2. Sign in with your Google account.
+3. Click **Get API Key** in the menu, then click **Create API key**.
+4. Copy your key and paste it into the **Gemini API Key** field on the app's setup screen.
+
+---
+
 
 ## 🚀 Tech Stack
 
@@ -131,20 +153,6 @@ npm run dev
 
 ---
 
-## 🔑 AI Features & API Key Setup
-
-1. Launch the simulator in your browser.
-2. In the **Setup View**, you will see an optional **Gemini API Key** field.
-3. **With API Key:** Enter your Gemini key to enable AI-powered custom question generation and the live **Ask AI Azure Tutor** chat inside questions.
-4. **Without API Key:** Leave the input blank to use the robust built-in AZ-104 offline question bank.
-
-### How to Get a Free Gemini API Key
-1. Go to [Google AI Studio](https://aistudio.google.com/).
-2. Sign in with your Google account.
-3. Click **Get API Key** in the menu, then click **Create API key**.
-4. Copy your key and paste it into the **Gemini API Key** field on the app's setup screen.
-
----
 
 ## 📁 File Structure
 
