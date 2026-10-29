@@ -4,6 +4,14 @@ A modern, interactive, and AI-powered **AZ-104 Exam Simulator** built using Reac
 
 This application offers real-time exam simulations with built-in scenario questions covering all five official Microsoft AZ-104 domains, as well as dynamic query integration powered by Google's **Gemini AI** for custom question generation and interactive tutoring.
 
+
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Launch_Simulator-cyan?style=for-the-badge&logo=githubpages&logoColor=white)](https://mast3r0mid.github.io/AI-Powered-AZ-104-Exam-Simulator/)
+
+> **Try it live:** [https://mast3r0mid.github.io/AI-Powered-AZ-104-Exam-Simulator/](https://mast3r0mid.github.io/AI-Powered-AZ-104-Exam-Simulator/)
+
+---
+
 <p align="center">
   <img src="AI%20AZ-104.png" alt="AZ-104 Exam Simulator Screenshot" width="800"/>
 </p>
